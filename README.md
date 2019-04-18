@@ -11,6 +11,8 @@ Here is our task list:
 5. Promote your repo
 
 ### Code
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-h.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-h)
 
 ### Contributors
-* :kissing_heart:**WONG, Sin Yi** [sinyiwsy](https://github.com/csci3250-2019/project-team-h/blob/master/_stu/1155110677.md)
+{% include_relative _stu 1155110667.md}
+{% include_relative _stu 1155108884.md}
