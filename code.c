@@ -3,6 +3,10 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Hello\n");
+    printf("CSCI3250 team-h\n");
+    for(int i=0;i<3250;i++)
+    printf("I hate CSCI%d\n",i );
+    printf("I love CSCI3250\n", );
     return 0;
 }
