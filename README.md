@@ -14,12 +14,15 @@ Here is our task list:
 5. Promote your repo
 
 ### Code
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-h.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-h)
 
 ### Contributors
+
 Here are our team members: (TBU)</br>
 {% include_relative _stu/1155107907.md %}</br>
 {% include_relative _stu/1155108968.md %}</br>
 {% include_relative _stu/1155108980.md %}</br>
 {% include_relative _stu/1155110677.md %}</br>
+{% include_relative _stu/1155108884.md %}</br>
 
 {{site.time}}
