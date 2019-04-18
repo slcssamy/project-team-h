@@ -18,11 +18,11 @@ Here is our task list:
 
 ### Contributors
 
-Here are our team members: (TBU)</br>
-{% include_relative _stu/1155107907.md %}</br>
-{% include_relative _stu/1155108968.md %}</br>
-{% include_relative _stu/1155108980.md %}</br>
-{% include_relative _stu/1155110677.md %}</br>
-{% include_relative _stu/1155108884.md %}</br>
+Here are our team members: (TBU)
+{% include_relative _stu/1155107907.md %}  
+{% include_relative _stu/1155108884.md %}  
+{% include_relative _stu/1155108968.md %}  
+{% include_relative _stu/1155108980.md %}  
+{% include_relative _stu/1155110677.md %}  
 
 {{site.time}}
