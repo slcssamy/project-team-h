@@ -14,7 +14,9 @@ Here is our task list:
 5. Promote your repo
 
 ### Code
+```c
 {% include_relative code.c %}
+```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-h.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-h)
 
 ### Contributors
