@@ -16,6 +16,7 @@ Here is our task list:
 ### Code
 ```c
 {% include_relative code.c %}
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-h.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-h)
 ```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-h.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-h)
 
