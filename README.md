@@ -33,6 +33,7 @@ Here are our team members: (TBU)
 {% include_relative _stu/1155109570.md %}  
 {% include_relative _stu/1155110554.md %}  
 {% include_relative _stu/1155074616.md %}  
-{% include_relative _stu/1155099069.md %}
+{% include_relative _stu/1155099069.md %}    
+{% include_relative _stu/1155099069.md %}  
 
 {{site.time}}
